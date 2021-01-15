@@ -71267,7 +71267,7 @@ while(true)switch(s){case 0:j=$.ax;(j==null?$.ax=E.bQ():j).fx=!1
 E.dD("\u0110ang x\u1eed l\xfd...")
 j=t.X
 s=2
-return P.e(G.aBm("http://hop.liink.vn/DesktopModules/HOPKHONGGIAY/Services/HopKhongGiayService.asmx?op=CheckDonViTrienKhai",'    <soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">\n      <soap:Body>\n        <CheckDonViTrienKhai xmlns="http://tempuri.org/">\n          <pDomain>'+H.b(q.f.a.a)+"</pDomain>\n        </CheckDonViTrienKhai>\n      </soap:Body>\n    </soap:Envelope>\n    ",P.O(["Content-Type","text/xml; charset=utf-8"],j,j)),$async$m4)
+return P.e(G.aBm("https://hop.liink.vn/DesktopModules/HOPKHONGGIAY/Services/HopKhongGiayService.asmx?op=CheckDonViTrienKhai",'    <soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">\n      <soap:Body>\n        <CheckDonViTrienKhai xmlns="http://tempuri.org/">\n          <pDomain>'+H.b(q.f.a.a)+"</pDomain>\n        </CheckDonViTrienKhai>\n      </soap:Body>\n    </soap:Envelope>\n    ",P.O(["Content-Type","text/xml; charset=utf-8"],j,j)),$async$m4)
 case 2:p=b
 o=new Q.ds()
 o.dE(0,B.aMF(J.f(U.aKa(p.e).c.a,"charset")).ez(0,p.x))
