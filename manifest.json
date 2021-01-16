@@ -1,6 +1,6 @@
 {
-    "name": "news_vinhlong_app",
-    "short_name": "news_vinhlong_app",
+    "name": "ecabinet_app",
+    "short_name": "ecabinet_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
